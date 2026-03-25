@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi!
+$E=mc^2$
 
 <!--
 **YM-Felix-Lu/YM-Felix-Lu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
